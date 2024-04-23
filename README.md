@@ -1,2 +1,2 @@
 # diplom_backend
-backend for college diploma (web)
+backend for college diploma (nodejs)
